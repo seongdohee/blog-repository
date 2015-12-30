@@ -4,6 +4,11 @@ Original style from softwaremaniacs.org (c) Ivan Sagalaev <Maniac@SoftwareManiac
 
 */
 
+code{
+  overflow-x: scroll;
+  min-width: 600px;
+}
+
 .hljs {
   display: block;
   overflow-x: auto;
