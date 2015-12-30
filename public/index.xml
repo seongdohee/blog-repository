@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dohee&#39;s blog</title>
-    <link>http://localhost:1313/</link>
+    <link>http://seongdohee.github.io/</link>
     <description>Recent content on dohee&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>seong0420hei@gmail.com (dohee)</managingEditor>
     <webMaster>seong0420hei@gmail.com (dohee)</webMaster>
     <copyright>(c) 2015 seongdohee.github.io</copyright>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://seongdohee.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>정규표현식</title>
-      <link>http://localhost:1313/1/01/01/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D/</link>
+      <link>http://seongdohee.github.io/1/01/01/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>seong0420hei@gmail.com (dohee)</author>
-      <guid>http://localhost:1313/1/01/01/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D/</guid>
+      <guid>http://seongdohee.github.io/1/01/01/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D/</guid>
       <description>&lt;p&gt;&lt;code&gt;정규표현식(reqular expreession)&lt;/code&gt;이란 문자들의 패턴을 표현하는 형식을 말한다.
 문자열 처리에 있어서 정규표현5식을 사용하지 않아도 대부분 해결할 수 있지만, 필요 이상으로 코드가 길어지게 된다.
 정규표현식을 이용하면 매우 간단하게 해결할 수 있다. (간단하게 사용할수 없다는게 함정..)&lt;/p&gt;
